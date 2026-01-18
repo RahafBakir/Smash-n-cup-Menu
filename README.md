@@ -1,2 +1,2 @@
-# Smash-n-cup-Menu
+# Smash-n-cup
 Menu
